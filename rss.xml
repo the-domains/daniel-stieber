@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Daniel Stieber]]></title>
+        <description><![CDATA[Daniel Stieber]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 18:34:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The U.S. has Gone F&*%ing Mad]]></title>
+            <description><![CDATA[<article><h1>The U.S. has Gone F&*%ing Mad</h1><p>On December 2, 2015, an absolute tragedy occurred. 14 Americans were killed and 22 were seriously injured in a mass shooting in San Bernardino.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f7f52d88f9b84dcaa56ddf0ed62c84c89a0dcc6.jpg"></article>]]></description>
+            <link>undefined38bc56dc-b0fd-498a-b96d-f24505534f98/index.html</link>
+            <guid isPermaLink="false">38bc56dc-b0fd-498a-b96d-f24505534f98</guid>
+            <pubDate>Tue, 23 Feb 2016 18:34:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
