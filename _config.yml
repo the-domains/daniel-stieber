@@ -1,7 +1,7 @@
 name: Daniel Stieber
 favicon: null
-layout_spectrum: 0.3350356232840568
-typography_spectrum: 0.05444191349670291
+layout_spectrum: 0.75609
+typography_spectrum: 0.53537
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#0d3b77'
+    - '#f2ca8c'
+    - '#f07a22'
+    - '#9d90a2'
+    - '#735811'
   brandStrength: 0.6581028769724071
-  lightness: 0.409111799672246
-  saturation: 0.729806327726692
-  rhythmicContrast: 0.7012843722477555
+  lightness: 0.875
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
